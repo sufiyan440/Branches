@@ -7,6 +7,6 @@ public class SumOfArray {
         for (int i = 0; i < qcsvdvvvngth; i++) {  
            sum = sum + arr[i];  
         }  
-        System.out.println("Sum of alhcvavchcjhvhjccvhjbcbhbchbcvhcvhcarray: " + sum);  
+        System.out.println("Sum of all the elements of an array: " + sum);  
     }  
 } 
